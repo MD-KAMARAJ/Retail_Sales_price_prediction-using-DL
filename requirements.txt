@@ -1,0 +1,13 @@
+pandas
+numpy
+streamlit
+matplotlib.pyplot
+seaborn
+joblib
+tensorflow as tf
+from tensorflow.keras.models import load_model
+from tensorflow.keras.losses import MeanSquaredError
+from scipy.stats import ttest_ind
+statsmodels.api
+datetime
+base64
